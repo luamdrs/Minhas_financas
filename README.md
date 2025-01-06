@@ -6,4 +6,6 @@ Este projeto de Python é um sistema de finanças pessoais que permite ao usuár
 
 #
 
-_Projeto Simples desenvolvido totalmente em Python e realizado apenas para fins de estudos e consultas futuras._
+_Este projeto foi desenvolvido com o objetivo de praticar e fixar conceitos em Python._
+
+> Sinta-se à vontade para clonar o repositório e utilizá-lo para fins de aprendizado.  🚀💫
