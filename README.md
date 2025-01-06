@@ -1,4 +1,4 @@
-# Projeto: Sistema de Finanças
+# Projeto: Sistema de Finanças 💵
 
 ## Exercício desenvolvido em Python
 
